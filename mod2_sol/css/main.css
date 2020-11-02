@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+}
+
+.chicken{
+    width: 30%;
+}
+.soup{
+    width: 30%;
+}
+.sushi{
+    width: 30%;
+}
+
+.box ul{
+    display: flex;
+}
